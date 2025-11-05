@@ -1,6 +1,6 @@
 # 🧠 ACES Lab Website – Paper & Member Management Guide
 
-This repository manages the **lab’s publication list** displayed on the official [ACES Lab Website (Google Sites)](https://sites.google.com/).  
+This repository manages the **lab’s publication list** displayed on the official [ACES Lab Website](https://sites.google.com/ucsd.edu/aceslab/).  
 The site automatically pulls data from this repo’s BibTeX file:  
 👉 [**papers.bib**](https://github.com/ACESLabUCSD/website-bib/blob/main/papers.bib)
 
@@ -21,13 +21,10 @@ The site automatically pulls data from this repo’s BibTeX file:
 Follow these steps whenever adding a new paper or linking an existing one:
 
 ### 1️⃣ Upload the Paper PDF
-Upload the paper to the correct **year folder** in the shared Drive:
-> [Google Drive Folder → Year Subfolder](https://drive.google.com/drive/folders/1jd7NJ8zL6D5J1-CBzuiUMsUH4HlL13X2?usp=sharing)
+Upload the paper to the correct **year folder** in the shared Drive.
 
 ### 2️⃣ Get the Shareable Link
 Right-click the uploaded PDF → “Get link.”  
-Example link:
-```https://drive.google.com/file/d/1vHmQnVetPFZAQb3xlXeFCRBIOalkNnko/view?usp=drive_link```
 
 ### 3️⃣ Generate a Downloadable Link
 Extract the **file ID** (the part between `/d/` and `/view`) and insert it here:
