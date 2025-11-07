@@ -33,8 +33,9 @@ Copy the filepath of:
 /Papers/*YEAR*/*YOUR_PAPER*
 
 ### 3️⃣ Paste the Copied Path into the Tex below
+```bibtex
 url = {https://raw.githubusercontent.com/ACESLabUCSD/website-bib/refs/heads/main<PASTE COPIED PATH HERE>}
-
+```
 
 
 ### 4️⃣ Insert the Tex from Step 3 into your Bibtex
